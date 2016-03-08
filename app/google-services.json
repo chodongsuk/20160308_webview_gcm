@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_id": "kidnapp-57a53",
+    "project_number": "395034649841",
+    "name": "kidnapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395034649841:android:8f9accb03df405da",
+        "client_id": "android:com.kidnapp.org",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.kidnapp.org"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395034649841:android:cabd5845eda7ba11",
+        "client_id": "android:com.kidnapp.org.webviewimpl",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.kidnapp.org.webviewimpl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
